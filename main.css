@@ -1,7 +1,16 @@
 cite {
   font-style: normal;
 }
-
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  gap: 48px;
+}
+nav ul li {
+  display: contents;
+  text-align: center;
 }
