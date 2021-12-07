@@ -186,23 +186,19 @@ have died in Christ is not a mere doctrinal position, it is an eternal fact.
 
 ## The Death and Resurrection of the Lord Jesus alike Inclusive
 
-<a rel="noopener" target="_blank" href="https://www.biblegateway.com/passage/?search=Rom.6.1-Rom.6.11">Romans
-6:1-11</a>. The death of the Lord Jesus is inclusive. The resurrection of the
-Lord Jesus is also inclusive. In
-<a
-            rel="noopener"
-            target="_blank"
-            href="https://www.biblegateway.com/passage/?search=1Cor.15"
-            >1
-Cor 15</a >, the Lord is spoken of as the last Adam and the second Man. The
-Scripture does not refer to him as the second Adam, but as the last Adam; nor
-does it refer to Him as the last Man, but as the second Man. As the last Adam He
-is the sum total of humanity; as the second Man He is the Head of a new race. As
-the last Adam He gathers up into Himself all that was in Adam; as the second
-Man, having by His Cross done away with the first man in whom God's purpose was
-frustrated, He brings in another Man in whom that purpose is fully realized.
-When He was crucified on the Cross He was crucified as the last Adam. All that
-was in the first Adam was done away with in the last Adam. We were all included
-in His death. As the last Adam He wipes out the old race; as the second Man He
-brings in a new race. It is in His resurrection that He stands as the second
-Man. We died in Him as the last Adam; we live in Him as the second Man.
+[Romans 6:1-11](https://www.biblegateway.com/passage/?search=Rom.6.1-Rom.6.11){:target=_blank}{:rel="noopener"}.
+The death of the Lord Jesus is inclusive. The resurrection of the Lord Jesus is
+also inclusive. In
+[1 Cor 15](https://www.biblegateway.com/passage/?search=1Cor.15){:target=_blank}{:rel="noopener"},
+the Lord is spoken of as the last Adam and the second Man. The Scripture does
+not refer to him as the second Adam, but as the last Adam; nor does it refer to
+Him as the last Man, but as the second Man. As the last Adam He is the sum total
+of humanity; as the second Man He is the Head of a new race. As the last Adam He
+gathers up into Himself all that was in Adam; as the second Man, having by His
+Cross done away with the first man in whom God's purpose was frustrated, He
+brings in another Man in whom that purpose is fully realized. When He was
+crucified on the Cross He was crucified as the last Adam. All that was in the
+first Adam was done away with in the last Adam. We were all included in His
+death. As the last Adam He wipes out the old race; as the second Man He brings
+in a new race. It is in His resurrection that He stands as the second Man. We
+died in Him as the last Adam; we live in Him as the second Man.
