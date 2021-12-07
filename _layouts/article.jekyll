@@ -7,7 +7,7 @@
     <meta name="color-scheme" content="dark light" />
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
-    {% include critical.html %}
+    {% include critical-styles.html %}
   </head>
   <body>
     {% include article-navigation.jekyll order=page.order %}
