@@ -7,9 +7,7 @@
     <meta name="color-scheme" content="dark light" />
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
-    <link rel="stylesheet" href="{{
-      "/assets/main.css" | relative_url
-    }}" />
+    {% include critical.html %}
   </head>
   <body>
     {% include article-navigation.jekyll order=page.order %}

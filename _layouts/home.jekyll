@@ -7,7 +7,7 @@
     <meta name="color-scheme" content="dark light" />
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css" />
+    {% include critical.html %}
   </head>
   <body>
     <h1>{{ page.title }}</h1>
