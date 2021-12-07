@@ -1,6 +1,7 @@
 {
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "cSpell.words": [
+    "endfor",
     "Helsingor",
     "impartation",
     "uncrucified"

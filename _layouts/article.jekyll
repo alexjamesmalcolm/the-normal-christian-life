@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark light" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css" />
+    <link
+      rel="stylesheet"
+      href="{{ site.baseurl }}/assets/safari-mobile-fix.css"
+      media="not all and (min-resolution:.001dpcm)"
+    />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a>Previous Issue</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/">Table of Contents</a>
+        </li>
+        <li>
+          <a>Next Issue</a>
+        </li>
+      </ul>
+    </nav>
+    <article>
+      <h1>{{ page.title }}</h1>
+      <div>
+        <cite
+          >Nee, Watchman. “The Normal Christian Life.”
+          <i>A Witness and a Testimony</i>, {{ page.citation.year }}, pp.
+          {{ page.citation.pages }},
+          <a rel="noopener" target="_blank" href="{{ page.citation.pdfUrl }}">{{
+            page.citation.pdfUrl
+          }}</a
+          >. Accessed {{ page.citation.accessDate }}.</cite
+        >
+      </div>
+      {{ content }}
+    </article>
+    <nav>
+      <ul>
+        <li>
+          <a>Previous Issue</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/">Table of Contents</a>
+        </li>
+        <li>
+          <a>Next Issue</a>
+        </li>
+      </ul>
+    </nav>
+  </body>
+</html>
