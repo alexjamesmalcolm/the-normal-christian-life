@@ -12,27 +12,7 @@
     }}" />
   </head>
   <body>
-    {% assign next_index = page.order | to_integer %} {% assign prev_index =
-    page.order | to_integer | minus: 2 %} {% assign next_article =
-    site.articles[next_index] %} {% assign prev_article =
-    site.articles[prev_index] %}
-    <nav>
-      <ul>
-        {% if prev_index >= 0 %}
-        <li>
-          <a href="{{ prev_article.url | relative_url }}">Previous Issue</a>
-        </li>
-        {% endif %}
-        <li>
-          <a href="{{ site.baseurl }}/">Table of Contents</a>
-        </li>
-        {% if next_article %}
-        <li>
-          <a href="{{ next_article.url | relative_url }}">Next Issue</a>
-        </li>
-        {%endif%}
-      </ul>
-    </nav>
+    {% include article-navigation.jekyll order=page.order %}
     <article>
       <h1>{{ page.title }}</h1>
       <div>
@@ -48,22 +28,6 @@
       </div>
       {{ content }}
     </article>
-    <nav>
-      <ul>
-        {% if prev_index >= 0 %}
-        <li>
-          <a href="{{ prev_article.url | relative_url }}">Previous Issue</a>
-        </li>
-        {% endif %}
-        <li>
-          <a href="{{ site.baseurl }}/">Table of Contents</a>
-        </li>
-        {% if next_article %}
-        <li>
-          <a href="{{ next_article.url | relative_url }}">Next Issue</a>
-        </li>
-        {%endif%}
-      </ul>
-    </nav>
+    {% include article-navigation.jekyll order=page.order %}
   </body>
 </html>
