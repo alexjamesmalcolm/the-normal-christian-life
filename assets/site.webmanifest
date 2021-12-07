@@ -1,0 +1,21 @@
+{
+    "name": "The Normal Christian Life",
+    "short_name": "Normal Christian Life",
+    "start_url": "/the-normal-christian-life/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "The original nine article series called The Normal Christian Life written by Watchmen Nee from 1940-1942 and published in A Witness and a Testimony.",
+    "scope": "/the-normal-christian-life/",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

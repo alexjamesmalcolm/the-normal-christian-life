@@ -4,4 +4,13 @@
 <meta name="color-scheme" content="dark light" />
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description }}" />
+<link rel="manifest" href="{{ "/assets/site.webmanifest" | relative_url }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{
+  "/assets/apple-touch-icon.png" | relative_url
+}}" /> <link rel="icon" type="image/png" sizes="32x32" href="{{
+  "/assets/favicon-32x32.png" | relative_url
+}}" /> <link rel="icon" type="image/png" sizes="16x16" href="{{
+  "/assets/favicon-16x16.png" | relative_url
+}}" />
+<!-- {% include about.txt %} -->
 {% include critical-styles.html %}
