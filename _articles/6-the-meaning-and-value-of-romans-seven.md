@@ -1,4 +1,5 @@
 ---
+order: 6
 title: The Meaning and Value of Romans Seven
 description: Sixth article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the September-October 1941 issue of a Witness and a Testimony.
 layout: article

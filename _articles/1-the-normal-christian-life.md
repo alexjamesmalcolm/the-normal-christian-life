@@ -1,4 +1,5 @@
 ---
+order: 1
 title: The Normal Christian Life
 description: First article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the November-December 1940 issue of A Witness and a Testimony.
 layout: article

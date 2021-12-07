@@ -1,4 +1,5 @@
 ---
+order: 5
 title: A Consideration of the Eternal Purpose
 description: Fifth article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the July-August 1941 issue of a Witness and a Testimony.
 layout: article

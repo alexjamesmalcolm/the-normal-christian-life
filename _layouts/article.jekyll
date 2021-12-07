@@ -7,25 +7,32 @@
     <meta name="color-scheme" content="dark light" />
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css" />
-    <link
-      rel="stylesheet"
-      href="{{ site.baseurl }}/assets/safari-mobile-fix.css"
-      media="not all and (min-resolution:.001dpcm)"
-    />
+    <link rel="stylesheet" href="{{
+      "/assets/main.css" | relative_url
+    }}" /> <link rel="stylesheet" href="{{
+      "/assets/safari-mobile-fix.css" | relative_url
+    }}" media="not all and (min-resolution:.001dpcm)" />
   </head>
   <body>
+    {% assign next_index = page.order | to_integer %} {% assign prev_index =
+    page.order | to_integer | minus: 2 %} {% assign next_article =
+    site.articles[next_index] %} {% assign prev_article =
+    site.articles[prev_index] %}
     <nav>
       <ul>
+        {% if prev_index >= 0 %}
         <li>
-          <a>Previous Issue</a>
+          <a href="{{ prev_article.url | relative_url }}">Previous Issue</a>
         </li>
+        {% endif %}
         <li>
           <a href="{{ site.baseurl }}/">Table of Contents</a>
         </li>
+        {% if next_article %}
         <li>
-          <a>Next Issue</a>
+          <a href="{{ next_article.url | relative_url }}">Next Issue</a>
         </li>
+        {%endif%}
       </ul>
     </nav>
     <article>
@@ -45,15 +52,19 @@
     </article>
     <nav>
       <ul>
+        {% if prev_index >= 0 %}
         <li>
-          <a>Previous Issue</a>
+          <a href="{{ prev_article.url | relative_url }}">Previous Issue</a>
         </li>
+        {% endif %}
         <li>
           <a href="{{ site.baseurl }}/">Table of Contents</a>
         </li>
+        {% if next_article %}
         <li>
-          <a>Next Issue</a>
+          <a href="{{ next_article.url | relative_url }}">Next Issue</a>
         </li>
+        {%endif%}
       </ul>
     </nav>
   </body>

@@ -1,4 +1,5 @@
 ---
+order: 2
 title: The Relationship of Revelation to True Experience
 description: Second article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the January-February 1941 issue of a Witness and a Testimony.
 layout: article

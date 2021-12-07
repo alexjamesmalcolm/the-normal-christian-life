@@ -1,4 +1,5 @@
 ---
+order: 4
 title: The True Nature of Consecration
 description: Fourth article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the May-June 1941 issue of a Witness and a Testimony.
 layout: article

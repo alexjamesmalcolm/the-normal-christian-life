@@ -1,4 +1,5 @@
 ---
+order: 9
 title: The Christian Pathway
 description: Ninth article in the nine article series called The Normal Christian Life by Watchman Nee. This article was released in the March-April 1942 issue of a Witness and a Testimony.
 layout: article
