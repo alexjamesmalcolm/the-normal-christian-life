@@ -20,7 +20,7 @@ subject from an experimental point of view.
 The first eight chapters of Romans are a unit.
 [Chapter 1 to chapter 5:11](https://www.biblegateway.com/passage/?search=Rom.1-Rom.5.11){:target="_blank"}{:rel="noopener"}
 forms the first half of this unit, and
-[chapter 5:12 to chapter 8:39](https://www.biblegateway.com/passage/?search=Rom.5.12-Rom.8.39){:target=_blank}{:rel="noopener"}
+[chapter 5:12 to chapter 8:39](https://www.biblegateway.com/passage/?search=Rom.5.12-Rom.8.39){:target="_blank"}{:rel="noopener"}
 the second half. The first half is spoken to sinners, the second half to saints;
 there is quite a difference between the two. For example, in the first section
 the word "sins" is used repeatedly; in the second it is never used. Again, in
@@ -55,7 +55,7 @@ wash away my old man. It needs the Cross to crucify _me_. You cannot find the
 word "sinner" in the first four chapters of Romans. Often when a believer wants
 to convict a man in the street that, he is a sinner, he will use the favorite
 verse,
-[Romans 3:23](https://www.biblegateway.com/passage/?search=Rom.3.23){:target=_blank}{:rel="noopener"},
+[Romans 3:23](https://www.biblegateway.com/passage/?search=Rom.3.23){:target="_blank"}{:rel="noopener"},
 but that use of the verse is not really justified by the Scriptures. The word
 "sinner" comes first in chapter 5. In that chapter a sinner is said to be a
 sinner because he is born a sinner; not because he has committed sins. How were
@@ -96,7 +96,7 @@ have justification; that is our basis.
 ## Man's State by Nature
 
 Now let us look at
-[Romans 5:12-21](https://www.biblegateway.com/passage/?search=Rom.5.12-21){:target=_blank}{:rel="noopener"}.
+[Romans 5:12-21](https://www.biblegateway.com/passage/?search=Rom.5.12-21){:target="_blank"}{:rel="noopener"}.
 What is the meaning of this passage? Here the Spirit of God is seeking to show
 us what we are. At the beginning of our Christian life we are only concerned
 with our doing, not with our being; we are distressed by what we have done. We
@@ -113,7 +113,7 @@ to the Lord and say, "Lord, not only what I have done is wrong, I am wrong"
 
 Thus in Romans, Paul first seeks to show us what we have done, then he seeks to
 show us what we are. We are all constituted sinners
-([Romans 5:19](https://www.biblegateway.com/passage/?search=Rom.5.19){:target=_blank}{:rel="noopener"}).
+([Romans 5:19](https://www.biblegateway.com/passage/?search=Rom.5.19){:target="_blank"}{:rel="noopener"}).
 How did this come about? By the disobedience of one man. My name is Nee. I did
 not choose it. I did not go through all the list of possible names and select
 this one. That my name is Nee is not of my doing, and nothing I do can alter it.
@@ -179,17 +179,17 @@ crucifixion is past, therefore ours cannot be future. I challenge you to find
 one text in the New Testament showing that crucifixion is in the future. All the
 references to our crucifixion are in the aorist tense, which is the
 "once-for-all" tense, the "eternal past" tense.
-([See Romans 6:6, Gal. 2:20, 5:24, 6:14](https://www.biblegateway.com/passage/?search=Rom.6.6,Gal.2.20,Gal.5.24,Gal.6.14){:target=_blank}{:rel="noopener"}).
+([See Romans 6:6, Gal. 2:20, 5:24, 6:14](https://www.biblegateway.com/passage/?search=Rom.6.6,Gal.2.20,Gal.5.24,Gal.6.14){:target="_blank"}{:rel="noopener"}).
 No man could ever commit suicide by crucifixion, for no man could crucify
 himself. We were crucified when He was crucified, for God put us in Him. That we
 have died in Christ is not a mere doctrinal position, it is an eternal fact.
 
 ## The Death and Resurrection of the Lord Jesus alike Inclusive
 
-[Romans 6:1-11](https://www.biblegateway.com/passage/?search=Rom.6.1-Rom.6.11){:target=_blank}{:rel="noopener"}.
+[Romans 6:1-11](https://www.biblegateway.com/passage/?search=Rom.6.1-Rom.6.11){:target="_blank"}{:rel="noopener"}.
 The death of the Lord Jesus is inclusive. The resurrection of the Lord Jesus is
 also inclusive. In
-[1 Cor 15](https://www.biblegateway.com/passage/?search=1Cor.15){:target=_blank}{:rel="noopener"},
+[1 Cor 15](https://www.biblegateway.com/passage/?search=1Cor.15){:target="_blank"}{:rel="noopener"},
 the Lord is spoken of as the last Adam and the second Man. The Scripture does
 not refer to him as the second Adam, but as the last Adam; nor does it refer to
 Him as the last Man, but as the second Man. As the last Adam He is the sum total
