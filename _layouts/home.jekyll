@@ -8,11 +8,6 @@
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css" />
-    <link
-      rel="stylesheet"
-      href="{{ site.baseurl }}/assets/safari-mobile-fix.css"
-      media="not all and (min-resolution:.001dpcm)"
-    />
   </head>
   <body>
     <h1>{{ page.title }}</h1>
@@ -20,7 +15,7 @@
       <ol>
         {% for article in site.articles %}
         <li>
-          <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
+          <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
         </li>
         {% endfor %}
       </ol>

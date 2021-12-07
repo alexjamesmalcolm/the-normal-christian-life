@@ -9,9 +9,7 @@
     <meta name="description" content="{{ page.description }}" />
     <link rel="stylesheet" href="{{
       "/assets/main.css" | relative_url
-    }}" /> <link rel="stylesheet" href="{{
-      "/assets/safari-mobile-fix.css" | relative_url
-    }}" media="not all and (min-resolution:.001dpcm)" />
+    }}" />
   </head>
   <body>
     {% assign next_index = page.order | to_integer %} {% assign prev_index =

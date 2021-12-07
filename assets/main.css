@@ -1,5 +1,6 @@
 cite {
   font-style: normal;
+  word-break: break-all;
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
