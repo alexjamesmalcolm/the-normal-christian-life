@@ -14,13 +14,23 @@
   }
   nav ul {
     list-style-type: none;
-    display: flex;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr 1fr;
     padding: 0;
-    gap: 48px;
   }
   nav ul li {
     display: contents;
     text-align: center;
+  }
+  nav ul li .previous {
+    grid-column: 1;
+  }
+  nav ul li .table-of-contents {
+    grid-column: 2;
+  }
+  nav ul li .next {
+    grid-column: 3;
   }
   @media (prefers-color-scheme: dark) {
     body {

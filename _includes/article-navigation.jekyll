@@ -6,15 +6,21 @@ site.articles[next_index] %} {% assign prev_article = site.articles[prev_index]
   <ul>
     {% if prev_index >= 0 %}
     <li>
-      <a href="{{ prev_article.url | relative_url }}">Previous Issue</a>
+      <a href="{{ prev_article.url | relative_url }}" class="previous"
+        >Previous Issue</a
+      >
     </li>
     {% endif %}
     <li>
-      <a href="{{ site.baseurl }}/">Table of Contents</a>
+      <a href="{{ site.baseurl }}/" class="table-of-contents"
+        >Table of Contents</a
+      >
     </li>
     {% if next_article %}
     <li>
-      <a href="{{ next_article.url | relative_url }}">Next Issue</a>
+      <a href="{{ next_article.url | relative_url }}" class="next"
+        >Next Issue</a
+      >
     </li>
     {%endif%}
   </ul>
