@@ -168,3 +168,29 @@ birth is the reception of a life which I did not possess before. It is not that
 my life has been changed at all; it is another life, a life altogether new and
 altogether Divine, which has become my life. God has cut off the old creation by
 the Cross of His Son, and my baptism is my recognition of that fact.
+
+## The Reckoning of Faith
+
+The normal Christian life, initially and progressively, is by faith in the Cross
+of Christ. But what is faith? Faith is my acceptance of God's fact. Faith always
+relates to the past; anything that relates to the future is not faith, it is
+hope.
+
+Mark 11:24 explains the nature of faith. "All things whatsoever ye pray and ask
+for, believe that ye _have_ received them, and ye shall have them". If you
+believe you already "have received" your requests, then you "shall have them".
+To believe that you may get something, or that you can get it, or even that you
+shall get it, is not faith. This is faith—to believe that you have already got
+it. Only that which relates to the past is true faith. Those who say, "God can",
+or "God may", or "God must", or "God shall", do not necessarily believe at all.
+Faith always says, "God has done it".
+
+Then when have I faith in regard to my crucifixion? Not when I say God _can_
+crucify me, or _will_ crucify me, but when with joy I say, praise God, in Christ
+_I am crucified_. Temptation may come and Satan may try to prove I am not dead,
+but once I see that I am crucified with Christ I can laugh in the face of
+temptation. The trouble with many is that as soon as temptation comes they begin
+to ask; "Have I really died?" They believe Satan's lies and deny God's truth.
+God has said that when Christ died I died, and I bank everything on His word. It
+is _done_, therefore there is nothing for me to do, but merely to see this as an
+eternal fact.
