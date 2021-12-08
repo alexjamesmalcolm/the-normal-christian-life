@@ -130,24 +130,36 @@ Greek is "grafted", and we have a very beautiful picture here of the life of
 Christ which is imparted to us through His resurrection. In Fukien I once
 visited a man who owned an orchard. He had three or four acres of land, and
 about three hundred fruit trees. I enquired if his trees had been grafted, or if
-they were just the original stock. "Do you think", he replied, "that I would
-waste my land growing ungrafted trees?" I asked him to explain the process of
-grafting, which he gladly did. "When a tree has grown to a certain height I lop
-off the top and then graft it", he said. Pointing to a special tree, he asked,
-"Do you see that tree? I call it the father tree, because all the other trees
-are grafted from that one. If the other trees were just left to follow the
-course of nature, their fruit would be about the size of a raspberry, and it
-would consist mostly of thick skin and seeds. This tree from which they are
-grafted bears a luscious fruit, the size of a plum, with very thin skin and tiny
-seeds". "How does it happen?", I asked. "I simply take a little of the nature of
-the one tree and transfer it to the other", he explained. "I make a cleavage in
-the poor tree and insert a slip from the good one, then bind it up and leave it
-to grow". "But how can it grow?" I asked. "I don't know", he said, "But it does
-grow". Then he showed me a tree bearing miserably poor fruit below the graft and
-rich juicy fruit above. How can one tree bear the fruit of another? How can an
-old tree bear new fruit? How can a poor tree bear good fruit? By grafting. Then
-if a man can graft a branch of one tree into another, cannot God graft the life
-of His Son into us?
+they were just the original stock.
+
+> "Do you think", he replied, "that I would waste my land growing ungrafted
+> trees?"
+
+I asked him to explain the process of grafting, which he gladly did.
+
+> "When a tree has grown to a certain height I lop off the top and then graft
+> it", he said. Pointing to a special tree, he asked, "Do you see that tree? I
+> call it the father tree, because all the other trees are grafted from that
+> one. If the other trees were just left to follow the course of nature, their
+> fruit would be about the size of a raspberry, and it would consist mostly of
+> thick skin and seeds. This tree from which they are grafted bears a luscious
+> fruit, the size of a plum, with very thin skin and tiny seeds".
+
+"How does it happen?", I asked.
+
+> "I simply take a little of the nature of the one tree and transfer it to the
+> other", he explained. "I make a cleavage in the poor tree and insert a slip
+> from the good one, then bind it up and leave it to grow".
+
+"But how can it grow?" I asked.
+
+> "I don't know", he said, "But it does grow".
+
+Then he showed me a tree bearing miserably poor fruit below the graft and rich
+juicy fruit above. How can one tree bear the fruit of another? How can an old
+tree bear new fruit? How can a poor tree bear good fruit? By grafting. Then if a
+man can graft a branch of one tree into another, cannot God graft the life of
+His Son into us?
 
 A Chinese woman burned her arm badly and was taken to hospital. It was found
 necessary to graft some new skin over the injured area, but the doctor attempted
