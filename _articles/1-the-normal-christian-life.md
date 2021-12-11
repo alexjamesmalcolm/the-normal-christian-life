@@ -65,7 +65,7 @@ thereby constituted an Englishman. Chapter three deals with what we have done;
 but it is not what we have done that makes us sinners. I once asked a class of
 children, "Who is a sinner?" and they replied, "One who sins". Yes, one who sins
 is a sinner; but it is equally true that one who does not sin is a sinner too.
-You understand what 1 mean. There are bad sinners and good sinners. A Dane may
+You understand what I mean. There are bad sinners and good sinners. A Dane may
 be born in America and unable to speak Danish; but he is a Dane for all that,
 because he was born a Dane. I am a sinner because I am born of Adam. I am not a
 sinner because I sin, but I sin because I am a sinner. We are apt to think that
@@ -82,7 +82,7 @@ these two sections, in chapters four and six. In chapter four the resurrection
 is mentioned as a proof of our justification. In chapter six it is spoken of as
 an impartation of life. Peace, too, is spoken of in both sections, in the fifth
 and eighth chapters respectively. What kind of peace is spoken of in the first
-section? Peace with God. Now that 1 have forgiveness of sins God will not be a
+section? Peace with God. Now that I have forgiveness of sins God will not be a
 cause of dread and trouble to me any more; but I am going to be a great cause of
 trouble to myself. There is still unrest within, for within there is something
 that draws me to sin. There is peace with God, but there is no peace with
@@ -146,7 +146,7 @@ deliverance for us: and that is exactly bow God dealt with the situation. In
 Romans 5 we are not only told something about Adam, we are also told something
 about the Lord Jesus. We were made sinners because of Adam; but we were made
 righteous because of Christ. Because of one we were constituted sinners; because
-of Another we were constituted righteous. When the Lord Jesus died. He did away
+of Another we were constituted righteous. When the Lord Jesus died He did away
 with all life in Adam; when He rose He imparted new life to us.
 
 ## The Divine Way of Deliverance
