@@ -12,5 +12,5 @@ This repository is an attempt to make _another_ "publication" of The Normal
 Christian Life, but this time by literally just copying and pasting from
 www.austin-sparks.net and cleaning up the results as far as punctuation goes.
 Given that this will be an html document I may also go back and change it so
-that bible verses are hyperlinks to a site like https://biblegateway.com or
-something.
+that bible verses are hyperlinks to a site like
+[biblegateway.com](https://biblegateway.com) or something.
