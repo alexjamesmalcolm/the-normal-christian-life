@@ -142,7 +142,7 @@ lived, for I have derived my life from him." Do you see the oneness of human
 life? Our life comes from Adam. We derived our existence from him, and because
 his life was a sinful life, therefore our life is sinful. So the trouble is our
 heredity, not our behavior. Unless we can change our parentage there is no
-deliverance for us: and that is exactly bow God dealt with the situation. In
+deliverance for us: and that is exactly how God dealt with the situation. In
 Romans 5 we are not only told something about Adam, we are also told something
 about the Lord Jesus. We were made sinners because of Adam; but we were made
 righteous because of Christ. Because of one we were constituted sinners; because
