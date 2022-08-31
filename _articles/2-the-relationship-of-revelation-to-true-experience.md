@@ -101,7 +101,7 @@ Do you know that Christ is not a tiny bit more dead than I?" From that day to
 this I have never for one moment doubted my own death. Friends, this is the
 first step into a normal Christian life. If we are to live such a life our first
 need is of revelation. May God open our eyes to see what He has done for us in
-His Son
+His Son.
 
 ## The Fruit of Revelation
 
